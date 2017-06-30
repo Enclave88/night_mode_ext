@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
 
   "name": "Switch view mode",
   "description": "Switched view mode between light and dark theme",
@@ -8,6 +8,7 @@
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html",
+    "default_title": "Switch it right now!"
   },
   "permissions": [
     "activeTab",
