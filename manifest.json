@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Switch view mode",
-  "description": "Switched view mode between light and dark theme",
+  "name": "Remember this",
+  "description": "Allows remember the text (string) or long number",
   "version": "1.0",
 
   "browser_action": {

@@ -20,7 +20,7 @@
     if (!nav) return;
 
     // Insert the night mode toggle
-    nav.innerHTML += '<li id="night-mode"><a role="button" href="#">Toggle Night Mode</a></li>';
+    nav.innerHTML += '<li id="night-mode"><a role="button" href="#">Toggle Night Mode2</a></li>';
 
     // Get our newly insert toggle
     let nightMode = document.querySelector('#night-mode');
